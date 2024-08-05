@@ -9,7 +9,7 @@ import com.library.service.BookService;
  * Hello world!
  *
  */
-public class Main
+public class LibraryManagementApplication 
 {
     public static void main( String[] args )
     {
